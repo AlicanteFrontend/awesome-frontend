@@ -1,8 +1,5 @@
 <div align="center">
-	<br>
 	<img width="400" src="https://rawgit.com/AlicanteFrontend/awesome-frontend/master/media/awesome.svg" alt="awesome">
-	<br>
-	<br>
 	<br>
 </div>
 
