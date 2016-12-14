@@ -9,7 +9,7 @@
 **Contributors:**
 - Open PR with your links
 - Try to keep them organized and categorized
-- Use h3 for categories (ex: frameworks) and h4 for subcategories (ex: react, angular...)
+- Use h2 for categories (ex: frameworks) and h3 for subcategories (ex: react, angular...)
 
 
 ## Learning resources
