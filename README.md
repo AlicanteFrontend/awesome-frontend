@@ -1,10 +1,10 @@
-<h2 align="center">
+<div align="center">
 	<br>
-	<img width="400" src="https://cdn.rawgit.com/AlicanteFrontend/awesome-frontend/master/media/awesome.svg" alt="awesome">
+	<img width="400" src="https://raw.githubusercontent.com/AlicanteFrontend/awesome-frontend/master/media/awesome.svg" alt="awesome">
 	<br>
 	<br>
 	<br>
-</h2>
+</div>
 
 # Awesome frontend [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 😎  Curated list of awesome all frontend related resources 😎
