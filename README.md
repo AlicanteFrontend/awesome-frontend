@@ -9,7 +9,7 @@
 ## Learning resources
 - [Useful Docs and Guides for Frontend devs](https://medium.com/web-development-zone/useful-docs-and-guides-for-front-end-developers-6a13fc395783#.y4gf4yfsb)
 
-### ES >2015 (future JS)
+### ES >2015
 
 - [ES2015 practical examples on CodePen](https://codepen.io/k3no/post/es6-sampler-6-odds-ends)
 - [API fetch](https://www.funcion13.com/el-api-fetch-de-javascript/)
