@@ -6,12 +6,6 @@
 # Awesome frontend [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 😎  Curated list of awesome all frontend related resources 😎
 
-**Contributors:**
-- Open PR with your links
-- Try to keep them organized and categorized
-- Use h2 for categories (ex: frameworks) and h3 for subcategories (ex: react, angular...)
-
-
 ## Learning resources
 - [Useful Docs and Guides for Frontend devs](https://medium.com/web-development-zone/useful-docs-and-guides-for-front-end-developers-6a13fc395783#.y4gf4yfsb)
 
@@ -36,4 +30,8 @@
 ## Frameworks/Libraries
 
 
+# Contributors
+- Open PR with your links
+- Try to keep them organized and categorized
+- Use h2 for categories (ex: frameworks) and h3 for subcategories (ex: react, angular...)
 
