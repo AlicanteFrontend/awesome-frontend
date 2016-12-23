@@ -25,12 +25,12 @@
 - [Flexbox.io](http://flexbox.io)
 
 #### SVG
-- [SVGO](https://github.com/svg/svgo):  Nodejs-based tool for optimizing SVG vector graphics files.
+- [SVGO](https://github.com/svg/svgo): Nodejs-based tool for optimizing SVG vector graphics files.
 - [SVG OMG](https://jakearchibald.github.io/svgomg/): UI for SVGO
-- [GruntIcon](http://www.grunticon.com/): Grunt task for treat and optimise SVG
+- [GruntIcon](http://www.grunticon.com/): Makes it easy to use SVGs for icons, logos, illustrations and background images.
 - [GrumpIcon](http://www.grumpicon.com/): UI for GruntIcon
-- [Gulp SVGmin](https://github.com/ben-eb/gulp-svgmin)
-- [SVG Editor](https://petercollingridge.appspot.com/svg-editor)
+- [Gulp SVGmin](https://github.com/ben-eb/gulp-svgmin): Minify SVG files with gulp.
+- [SVG Editor](https://petercollingridge.appspot.com/svg-editor): Online SVG optimization tool.
 
 
 ## Challenges
