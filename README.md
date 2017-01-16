@@ -8,6 +8,7 @@
 
 ## Learning resources
 - [Useful Docs and Guides for Frontend devs](https://medium.com/web-development-zone/useful-docs-and-guides-for-front-end-developers-6a13fc395783#.y4gf4yfsb)
+- [Frontend directory](https://frontend.directory): Find top quality content in the frontend web development field.
 
 ### Architecture & Design Patterns
 
