@@ -14,7 +14,6 @@
 - [(Video) Scalable Application Architecture, by Minko Gechev](https://www.youtube.com/watch?v=gtOPAj9_FSM)
 - [(Post) Scalable Application Architecture](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
 
-
 ### ES >2015
 
 - [ES2015 practical examples on CodePen](https://codepen.io/k3no/post/es6-sampler-6-odds-ends)
@@ -42,6 +41,19 @@
 - [Frontend Conferences](https://github.com/frontendfront/front-end-conferences): List of upcoming frontend related conferences
 
 ## Frameworks/Libraries
+
+
+## Coding Playgrounds
+- [CodePen](http://codepen.io/): No presentation needed. ˝Demo or it didn't happen˝.
+- [JSFiddle](http://jsfiddle.net/): Test your JavaScript, CSS, HTML or CoffeeScript online with these code editor.
+- [JS Bin](http://jsbin.com/): A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more...
+- [Thimble by mozilla](https://thimble.mozilla.org/): Thimble is an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript.
+- [Dabblet](http://dabblet.com/): An interactive CSS playground and code sharing tool. Dabblet saves to Github gists and offers many conveniences for CSS editing. By the amazing [Lea Verou](https://github.com/leaverou/).
+- [SassMeister](http://www.sassmeister.com/): A playground for Sass. Add some Sass and SassMeister will show you the rendered CSS.
+- [PlayCode](https://playcode.io/): Test your JavaScript, CSS, HTML, CoffeeScript or TypeScript online with PlayCode code editor.
+- [Liveweave](http://liveweave.com/): Liveweave is a HTML5, CSS3 &amp; JavaScript playground for web designers and developers.
+- [CSSDeck](http://cssdeck.com/): Collection of Awesome CSS and JS Creations to help out frontend developers and designers.
+- [Gomix](https://gomix.com/): Gomix is the easiest way to build the app or bot of your dreams. Editor, instant hosting and deployment.
 
 
 # Contributors
