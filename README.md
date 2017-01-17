@@ -23,7 +23,11 @@
 
 - [Flexbox.io](http://flexbox.io)
 
+
+## Tools
+
 #### SVG
+
 - [SVGO](https://github.com/svg/svgo): Nodejs-based tool for optimizing SVG vector graphics files.
 - [SVG OMG](https://jakearchibald.github.io/svgomg/): UI for SVGO
 - [GruntIcon](http://www.grunticon.com/): Makes it easy to use SVGs for icons, logos, illustrations and background images.
@@ -31,19 +35,7 @@
 - [Gulp SVGmin](https://github.com/ben-eb/gulp-svgmin): Minify SVG files with gulp.
 - [SVG Editor](https://petercollingridge.appspot.com/svg-editor): Online SVG optimization tool.
 
-
-## Challenges
-
-- [30 days js challenge, by @Wesbos](https://javascript30.com/)
-
-## Events
-
-- [Frontend Conferences](https://github.com/frontendfront/front-end-conferences): List of upcoming frontend related conferences
-
-## Frameworks/Libraries
-
-
-## Coding Playgrounds
+### Coding Playgrounds
 - [CodePen](http://codepen.io/): No presentation needed. ˝Demo or it didn't happen˝.
 - [JSFiddle](http://jsfiddle.net/): Test your JavaScript, CSS, HTML or CoffeeScript online with these code editor.
 - [JS Bin](http://jsbin.com/): A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more...
@@ -55,6 +47,16 @@
 - [CSSDeck](http://cssdeck.com/): Collection of Awesome CSS and JS Creations to help out frontend developers and designers.
 - [Gomix](https://gomix.com/): Gomix is the easiest way to build the app or bot of your dreams. Editor, instant hosting and deployment.
 
+
+## Challenges
+
+- [30 days js challenge, by @Wesbos](https://javascript30.com/)
+
+## Events
+
+- [Frontend Conferences](https://github.com/frontendfront/front-end-conferences): List of upcoming frontend related conferences
+
+## Frameworks/Libraries
 
 # Contributors
 - Open PR with your links
