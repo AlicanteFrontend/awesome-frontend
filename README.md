@@ -54,6 +54,12 @@
 
 - [30 days js challenge, by @Wesbos](https://javascript30.com/)
 
+## Blogs
+
+- [bitsofcode](https://bitsofco.de/): Weekly articles on front-end development. By [Ire Aderinokun](https://github.com/ireade).
+- [Pony Foo](https://ponyfoo.com/): JavaScript consulting, modularity, front-end architecture, performance. By [Nicolás Bevacqua](https://github.com/bevacqua).
+- [②ality](http://www.2ality.com/): JavaScript and more. By [Dr. Axel Rauschmayer](https://github.com/rauschma).
+
 ## Events
 
 - [Frontend Conferences](https://github.com/frontendfront/front-end-conferences): List of upcoming frontend related conferences
