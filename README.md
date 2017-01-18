@@ -24,6 +24,9 @@
 
 - [Flexbox.io](http://flexbox.io)
 
+### Performance
+- [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
+
 
 ## Tools
 
