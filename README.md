@@ -62,6 +62,7 @@
 - [bitsofcode](https://bitsofco.de/): Weekly articles on front-end development. By [Ire Aderinokun](https://github.com/ireade).
 - [Pony Foo](https://ponyfoo.com/): JavaScript consulting, modularity, front-end architecture, performance. By [Nicolás Bevacqua](https://github.com/bevacqua).
 - [②ality](http://www.2ality.com/): JavaScript and more. By [Dr. Axel Rauschmayer](https://github.com/rauschma).
+- [the new code](http://thenewcode.com/): Web related posts. Just amazing. By [Dudley Storey](https://github.com/dudleystorey)
 
 ## Events
 
