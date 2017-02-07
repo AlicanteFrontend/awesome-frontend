@@ -90,6 +90,7 @@
 - [yo-yo.js](https://github.com/maxogden/yo-yo): A tiny library for building modular UI components. 
 - [Blissful.js](http://blissfuljs.com/): is just a collection of helpers and light syntactic sugar over Vanilla JS.
 - [Page.js](https://visionmedia.github.io/page.js/): Tiny ~1200 byte Express-inspired client-side router.
+- [Mnemonist](https://yomguithereal.github.io/mnemonist/): Curated collection of data structures for the JavaScript language. 
 
 ### CSS
 - [CSS Module](https://github.com/css-modules/css-modules):  is a CSS file in which all class names and animation names are scoped locally by default.
