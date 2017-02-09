@@ -150,6 +150,7 @@
 - [pt](https://github.com/williamngan/pt): An experimental library on point, form, and space.
 - [Noise.js](https://github.com/josephg/noisejs):  is a simple library for 2d & 3d perlin noise and simplex noise in javascript
 - [Aquarelle](https://github.com/Ramotion/aquarelle):  An open source library for Intro Watercolor Effect
+- [GraphicsJS](http://www.graphicsjs.org/): A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 
 
 
