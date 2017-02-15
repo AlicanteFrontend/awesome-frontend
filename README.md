@@ -23,6 +23,8 @@
 ### Design & CSS
 
 - [Flexbox.io](http://flexbox.io)
+- [HTML Reference](http://htmlreference.io/): Features all elements and attributes of HTML
+- [CSS Reference](http://cssreference.io/): Features all elements and attributes of CSS
 
 ### Performance
 - [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
