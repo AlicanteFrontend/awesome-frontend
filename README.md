@@ -135,6 +135,7 @@
 - [Rebound.js](http://facebook.github.io/rebound-js/examples/): is a simple library that models Spring dynamics for the purpose of driving physical animations.
 - [tween.js](https://github.com/tweenjs/tween.js/): JavaScript tweening engine for easy animations.
 - [Velocity.js](http://velocityjs.org/): Accelerated JavaScript animation.
+- [Matter.js](http://brm.io/matter-js/): 2D physics engine for the web.
 
 ### Image
 - [AntiModerate](https://github.com/whackashoe/antimoderate): The progressive image loading library for great good!
