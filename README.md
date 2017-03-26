@@ -91,6 +91,10 @@
 - [Blissful.js](http://blissfuljs.com/): is just a collection of helpers and light syntactic sugar over Vanilla JS.
 - [Page.js](https://visionmedia.github.io/page.js/): Tiny ~1200 byte Express-inspired client-side router.
 - [Mnemonist](https://yomguithereal.github.io/mnemonist/): Curated collection of data structures for the JavaScript language. 
+- [lunr.js](http://lunrjs.com/): Simple full-text search in your browser
+- [Preact](https://github.com/developit/preact): Fast 3kB alternative to React, with the same ES2015 API.
+- [Inferno](https://infernojs.org/): An extremely fast, React-like JavaScript library for building modern user interfaces.
+- [PouchDB](https://pouchdb.com/): is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
 
 ### CSS
 - [CSS Module](https://github.com/css-modules/css-modules):  is a CSS file in which all class names and animation names are scoped locally by default.
@@ -111,6 +115,7 @@
 - [Elm](http://elm-lang.org/): A delightful language for reliable webapps.
 - [TypeScript](https://www.typescriptlang.org/): is a typed superset of JavaScript that compiles to plain JavaScript.
 - [Aurelia.js](http://aurelia.io/): is a JavaScript client framework for mobile, desktop and web
+- [Svelte](https://svelte.technology/): The magical disappearing UI framework
 
 #### Test
 - [Mocha](https://mochajs.org/): is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.
