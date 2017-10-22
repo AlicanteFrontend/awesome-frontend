@@ -29,6 +29,8 @@
 ### Performance
 - [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
 
+### Progressive Web Apps (PWA)
+- [Treebo, a React and Prect PWA performance case study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
 
 ## Tools
 
