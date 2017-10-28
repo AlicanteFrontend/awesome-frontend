@@ -80,6 +80,14 @@
 - [NuclearJS](https://optimizely.github.io/nuclear-js/): Reactive Flux built with ImmutableJS data structures.
 - [Reselect](https://github.com/reactjs/reselect): Simple “selector” library for Redux.
 - [React Intl](https://github.com/yahoo/react-intl): Internationalize React apps. 
+- [Redux Saga](https://redux-saga.js.org/): a library that aims to make side effects in React/Redux applications easier and better.
+- [Kea](https://kea.js.org/): High level abstraction between React and Redux
+- [Mobx](https://mobx.js.org/): Simple, scalable state management.
+- [React Anime](https://github.com/hyperfuse/react-anime): A super easy animation library for React!
+- [React Mosaic](https://github.com/palantir/react-mosaic): a full-featured React Tiling Window Manager.
+- [Blueprint](http://blueprintjs.com/): A React-based UI toolkit for the web.
+- [React Docgen](https://github.com/reactjs/react-docgen): a CLI and toolbox to help extracting information from React components, and generate documentation from it.
+
 
 #### Javascript
 - [Flow](https://flowtype.org/): a static tipe checker for Javascript.
@@ -97,13 +105,16 @@
 - [PouchDB](https://pouchdb.com/): is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
 
 ### CSS
-- [CSS Module](https://github.com/css-modules/css-modules):  is a CSS file in which all class names and animation names are scoped locally by default.
+- [CSS Modules](https://github.com/css-modules/css-modules):  is a CSS file in which all class names and animation names are scoped locally by default.
 - [SASS](http://sass-lang.com/): is the most mature, stable, and powerful professional grade CSS extension language in the world.
 - [LESS](http://lesscss.org/): is a CSS pre-processor, meaning that it extends the CSS language.
 - [Compass](http://compass-style.org/): is an open-source CSS Authoring Framework.
 - [Pure.css](https://purecss.io/): A set of small, responsive CSS modules that you can use in every web project.
 - [PostCSS](http://postcss.org/): A tool for transforming CSS with JavaScript.
-- [LostGrid](http://lostgrid.org/): is a powerful grid system built in PostCSS that works with any preprocessor and even vanilla CSS
+- [LostGrid](http://lostgrid.org/): is a powerful grid system built in PostCSS that works with any preprocessor and even vanilla CSS.
+- [RxCSS](https://github.com/davidkpiano/RxCSS): very small library for manipulating CSS Custom Properties.
+- [Emotion](https://emotion.sh/): The Next Generation of CSS-in-JS
+- [Styled Components](https://www.styled-components.com/): Visual primitives for the component age.
 
 ### Web Components
 - [Polymer](https://www.polymer-project.org/1.0/): is a JavaScript library for building web applications using web components.
@@ -116,6 +127,7 @@
 - [TypeScript](https://www.typescriptlang.org/): is a typed superset of JavaScript that compiles to plain JavaScript.
 - [Aurelia.js](http://aurelia.io/): is a JavaScript client framework for mobile, desktop and web
 - [Svelte](https://svelte.technology/): The magical disappearing UI framework
+- [Moon](http://moonjs.ga/): A minimal, blazing fast user interface library.
 
 #### Test
 - [Mocha](https://mochajs.org/): is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.
@@ -134,6 +146,9 @@
 - [Bower](https://bower.io/): A package manager for the web.
 - [codemod](https://github.com/facebook/codemod): is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occassional intervention.
 - [Format.js](https://formatjs.io/): Internationalize your web apps on the client & server.
+- [Storybook](https://storybook.js.org/): a development environment for UI components.
+- [Remixer for JavaScript](https://github.com/material-foundation/material-remixer-js):  is a framework to iterate quickly on UI changes.
+- [Critical](https://github.com/addyosmani/critical): A minimal, blazing fast user interface library.
 
 ### Animations
 - [Choregrapher.js](https://christinecha.github.io/choreographer-js/): a simple library to take care of complex CSS animations.
@@ -141,9 +156,11 @@
 - [tween.js](https://github.com/tweenjs/tween.js/): JavaScript tweening engine for easy animations.
 - [Velocity.js](http://velocityjs.org/): Accelerated JavaScript animation.
 - [Matter.js](http://brm.io/matter-js/): 2D physics engine for the web.
+- [anime.js](http://animejs.com/): is a lightweight JavaScript animation library.
 
 ### Image
 - [AntiModerate](https://github.com/whackashoe/antimoderate): The progressive image loading library for great good!
+- [Image Trace Loader](https://github.com/EmilTholin/image-trace-loader): Loads images and exports traced outlines as image/svg+xml URL-encoded data.
 
 ### Audio
 - [Tone.js](https://tonejs.github.io/): is a framework for creating interactive music in the browser
@@ -157,6 +174,9 @@
 - [Noise.js](https://github.com/josephg/noisejs):  is a simple library for 2d & 3d perlin noise and simplex noise in javascript
 - [Aquarelle](https://github.com/Ramotion/aquarelle):  An open source library for Intro Watercolor Effect
 - [GraphicsJS](http://www.graphicsjs.org/): A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
+- [whs.js](https://github.com/WhitestormJS/whs.js): Super-fast 3D framework for Web Applications 🥇 & Games 🎮.
+- [Luma.gl](): High-performance WebGL2 components for GPU-powered data visualization and computation.
+- [Deck.gl](https://uber.github.io/deck.gl/#/): a WebGL-powered framework for visual exploratory data analysis of large datasets.
 
 
 
