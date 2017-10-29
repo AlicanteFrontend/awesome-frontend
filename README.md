@@ -23,6 +23,7 @@
 ### Design & CSS
 
 - [Flexbox.io](http://flexbox.io)
+- [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies): Funny alternative way to learn flexbox
 - [HTML Reference](http://htmlreference.io/): Features all elements and attributes of HTML
 - [CSS Reference](http://cssreference.io/): Features all elements and attributes of CSS
 
