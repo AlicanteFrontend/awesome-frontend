@@ -157,6 +157,7 @@
 - [Storybook](https://storybook.js.org/): a development environment for UI components.
 - [Remixer for JavaScript](https://github.com/material-foundation/material-remixer-js):  is a framework to iterate quickly on UI changes.
 - [Critical](https://github.com/addyosmani/critical): A minimal, blazing fast user interface library.
+- [Pingy CLI](https://github.com/pingyhq/pingy-cli): A simple frontend build tool.
 
 ### Animations
 - [Choregrapher.js](https://christinecha.github.io/choreographer-js/): a simple library to take care of complex CSS animations.
